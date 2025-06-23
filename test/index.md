@@ -7,8 +7,8 @@
 > Always remember that you are absolutely unique.  Just like everyone else.  
 > **Margaret Mead**
 
-This [Peronality Type Test](https://www.idrlabs.com/test.php) prepared by
-Individual Differences Research Labs ([www.idrlabs.com](https://www.idrlabs.com)) contains 44 questions,
+This [Personality Type Test](https://www.idrlabs.com/test.php) prepared by
+[Individual Differences Research Labs](https://www.idrlabs.com) contains 44 questions,
 each with a choice from two alternatives.
 The test takes, on the average, about 15 to 20 minutes to complete.
 
