@@ -1,4 +1,4 @@
-> [functions](./)
+> [functions](../)
 
 ![banner](/mbti/photos/banner.png)
 
