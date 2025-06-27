@@ -1,4 +1,4 @@
-> [temperaments](./)
+> [temperaments](../)
 
 ![banner](/mbti/photos/banner.png)
 
