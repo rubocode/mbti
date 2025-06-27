@@ -20,7 +20,7 @@
 
 ### Talents
 
-* They tend to be gifted at employing the available means to accomplish and end.
+* They tend to be gifted at employing the available means to accomplish an end.
 * Their creativity is revealed by the variety of solutions they come up with.
 * They are talented at using tools, whether the tool be language, theories, a paint brush, or a computer.
 * They tune into immediate sensory information and vary their actions according to the needs of the moment.
