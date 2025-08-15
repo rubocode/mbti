@@ -47,4 +47,4 @@ in a way similar to filing data away on a hard disk of a computer.
 We use the CPU and RAM to acquire, process, store and retrieve information.
 Our classification processes provide the necessary integration of the knowledge.
 
-> **Note**:  Take this [free online test](test) to find your personality type.
+> **Note**:  Take this [free online test](../test) to find your personality type.
