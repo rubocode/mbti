@@ -11,5 +11,3 @@
 | [Types](types) | [Preferences](preferences) |
 | [Temperaments](temperaments) | [Interaction Styles](styles) |
 | [Functions](functions) | [Keirsey](keirsey) |
-
-> **Note**:  Take this [free online test](test) to find your personality type.
